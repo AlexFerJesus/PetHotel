@@ -19,7 +19,7 @@ Console.WriteLine();
 Console.ForegroundColor = ConsoleColor.White;
 Console.WriteLine("+=========================================================+");
 Console.Write("|                 ");
-Console.ForegroundColor = ConsoleColor.Yellow;
+Console.ForegroundColor = ConsoleColor.Blue;
 Console.Write("Pet Hotel \"Bom pra cachorro\"");
 Console.ForegroundColor = ConsoleColor.White;
 Console.WriteLine("            |");
